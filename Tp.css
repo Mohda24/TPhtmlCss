@@ -25,6 +25,10 @@
         flex-direction: column;
 
     }
+     label{
+        width: 60px;
+        font-size: small;
+    }
 }
 label{
     padding: 20px 15px;
