@@ -39,7 +39,7 @@ label{
     color: white;
     z-index: 11;
     position: absolute;
-    top: 10p;
+    top: 10px;
 }
 
 input[type="checkbox"] {
@@ -77,6 +77,6 @@ input#btn:checked ~ .box {
     -o-transform: scale(1);
 }
 
-input[type="checkbox"]:checked ~ .mybtn {
+input[type="checkbox"]:checked ~ label {
     background-color: blue;
 }
